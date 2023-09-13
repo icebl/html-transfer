@@ -1,8 +1,12 @@
 # html-transfer
 > Escapes string for use in HTML
 
-## install
-``` js
+ * [Single-quoted attribute values][html-single-attribute] `'`
+ * [Double-quoted attribute values][html-double-attribute] `"`
+
+
+## Installation
+```
 npm i html-transfer
 ```
 
