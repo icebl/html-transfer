@@ -1,0 +1,8 @@
+{
+	"name": "html-transfer",
+	"version": "1.0.0",
+	"main": "index.js",
+	"description": "html transfer",
+	"keywords": ["escape", "unescape", "transfer"],
+	"license": "ISC"
+}
