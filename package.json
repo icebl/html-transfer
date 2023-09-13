@@ -1,6 +1,6 @@
 {
 	"name": "html-transfer",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "index.js",
 	"description": "html transfer",
 	"keywords": [
